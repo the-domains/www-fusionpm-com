@@ -1,22 +1,22 @@
-typography_spectrum: 0.5562812831008457
-content_rating:
-  adult: false
+layout_spectrum: 0.13073017273328758
+typography_spectrum: 0.6595564173603671
 color:
-  saturation: 0.5122903357005429
-  brandStrength: 0.3753663541940917
-  lightness: 0.3235797549425486
-  rhythmicContrast: 0.4364586585429082
+  saturation: 0.9980832772851359
+  brandStrength: 0.37730102228941303
+  lightness: 0.32880112864842437
+  rhythmicContrast: 0.21871479446713876
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
-layout_spectrum: 0.13969818525597233
 analytics:
   google: UA-103167574-1
   facebook: '395447697488990'
@@ -26,7 +26,7 @@ author:
   url: 'http://www.fusionpm.us.com/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
-name: www.fusionpm.com
+name: www.fusionpm.us.com
 navigation:
   - name: PORTFOLIO
     id: fdfcccea-f33a-48fe-b0fd-3a68986a4258
@@ -35,7 +35,7 @@ navigation:
     id: 0997b923-0e62-4840-9663-5a5a1bfb5f25
     type: content
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d86eff74-1277-4184-83ac-a5e49b948ba9.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
