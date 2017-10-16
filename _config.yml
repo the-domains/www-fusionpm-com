@@ -1,0 +1,93 @@
+typography_spectrum: 0.5562812831008457
+content_rating:
+  adult: false
+color:
+  saturation: 0.5122903357005429
+  brandStrength: 0.3753663541940917
+  lightness: 0.3235797549425486
+  rhythmicContrast: 0.4364586585429082
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+opengraph:
+  type: FUSIONproto
+  appId: 'https://www.facebook.com/FUSIONproto/'
+layout_spectrum: 0.13969818525597233
+analytics:
+  google: UA-103167574-1
+  facebook: '395447697488990'
+author:
+  name: FUSION PROTOTYPES
+  email: info@fusionpm.com
+  url: 'http://www.fusionpm.us.com/'
+name: www.fusionpm.com
+navigation:
+  - name: PORTFOLIO
+    id: fdfcccea-f33a-48fe-b0fd-3a68986a4258
+    type: content
+title: FUSION
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98ec6714-ca03-4f17-bd2b-548811d9ac67.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/98ec6714-ca03-4f17-bd2b-548811d9ac67.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06e91c31-82b6-40fb-8199-63b403d50bbb.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/06e91c31-82b6-40fb-8199-63b403d50bbb.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Prototype Manufacturing
+purpose:
+  - type: contact
+    url: 'tel:6198195521'
+    label: CALL US
+  - type: email
+    url: 'mailto:info@fusionpm.com'
+    label: SEND EMAIL
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d86eff74-1277-4184-83ac-a5e49b948ba9.png
