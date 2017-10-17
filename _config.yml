@@ -23,7 +23,7 @@ analytics:
 author:
   name: FUSION PROTOTYPES
   email: info@fusionpm.com
-  url: 'http://www.fusionpm.us.com/'
+  url: 'http://www.fusionpm.us'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
 name: www.fusionpm.us.com
@@ -60,7 +60,6 @@ content:
       keywords:
         - ''
       description: Uploaded by FUSIONpm on 2017-05-25.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=LB4-0LKjN8Q&feature=applinks'
@@ -114,3 +113,4 @@ purpose:
   - type: email
     url: 'mailto:info@fusionpm.com'
     label: SEND EMAIL
+url: 'https://thegrid.ai/www-fusionpm-us'
