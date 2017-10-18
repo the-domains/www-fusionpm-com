@@ -1,10 +1,10 @@
-layout_spectrum: 0.4361298433073455
-typography_spectrum: 0.8344308513250792
+layout_spectrum: 0.4519685597191242
+typography_spectrum: 0.8937069733595789
 color:
-  saturation: 0.5113637272687168
-  brandStrength: 0.37490048442423196
-  lightness: 0.6552620019823645
-  rhythmicContrast: 0.3901690626089083
+  saturation: 0.5164124997825095
+  brandStrength: 0.37469247728936594
+  lightness: 0.7132112886483716
+  rhythmicContrast: 0.11304899418191744
   brandColors:
     - '#FF6600'
     - '#C13B00'
@@ -13,7 +13,6 @@ color:
     - '#1B1D1E'
 content_rating:
   adult: false
-github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
@@ -23,17 +22,10 @@ analytics:
 author:
   name: FUSION PROTOTYPES
   email: info@fusionpm.com
-  url: 'http://www.fusionpm.us'
+  url: 'https://thegrid.ai/www-fusionpm-us/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
 name: www.fusionpm.us
-navigation:
-  - name: PORTFOLIO
-    id: fdfcccea-f33a-48fe-b0fd-3a68986a4258
-    type: content
-  - name: PROTOTYPES
-    id: 0997b923-0e62-4840-9663-5a5a1bfb5f25
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
@@ -108,9 +100,10 @@ content:
 description: Prototype Manufacturing
 purpose:
   - type: contact
-    url: 'tel:6198195521'
-    label: CALL US
+    url: 'tel:8888275945'
+    label: Call 8888275945
   - type: email
     url: 'mailto:info@fusionpm.com'
     label: SEND EMAIL
-url: 'https://thegrid.ai/www-fusionpm-us/'
+url: 'http://www.fusionpm.us'
+github: true
