@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Quick Turn Prototypes in 1 to 5 days. Production Quantities Also Available.
-dateModified: '2017-10-19T14:47:59.230Z'
-datePublished: '2017-10-19T14:48:11.017Z'
+dateModified: '2017-10-19T14:51:12.683Z'
+datePublished: '2017-10-19T14:51:13.563Z'
 title: MATERIALS
 author: []
 publisher: {}
@@ -63,15 +63,10 @@ At Fusion PM, our DMLS network speeds the delivery of metal prototypes and parts
 
 ---
 
-* **SELECTIVE LASER SINTERING**Plastic Prototypes and Parts Direct from CADSelective Laser Sintering (SLS(r)) is an additive manufacturing technology developed by 3D Systems. The process uses a high power laser fuse small particles of plastic, metal, ceramic and glass powders directly from computer-aided design (CAD) data into a three dimensional shape. As each cross-section is scanned, the powder bed is lowered by one layer thickness, scanning and sintering one layer at a time until the build is complete. Part tolerances typically measure three-thousandth to five-thousandth of an inch (0.0003" -- 0.005").The SLS process is used for rapidly manufacturing components and assemblies from a wide range of powder polymers such as nylon (neat, glass-filled or carbon-filled) or polystyrene. Commonly specified laser sintering materials include:\*Duraform PA Nylon\*Duraform FR Flame Retardant\*Duraform Flex Elastomeric\*Duraform GF Glass Filled\*Duraform HST Fiber Reinforced\*Duraform EX Impact ResistantSLS technology is growing and being adopted in many industries for low volume Additive Manufacturing, including; aerospace, automotive, consumer products, dental, robotics and medical industries. At Fusion PM, the technology offers numerous advantages to our clients, quickly delivering plastic prototypes and parts via Digital Manufacturing in as little as one to two days.While SLS began as a way to build prototype parts by Dr. Carl Deckard in the mid 1980's, it has grown in popularity as a limited-run manufacturing option to deliver plastic end-use parts.The people at Fusion PM have years of experience working with SLS materials and processes -- let Fusion PM get to work for you!**Materials list Pdf File**[SLS Castform ][5][SLS RX][6][SLS Flex][7][SLS GF][8][SLS PA][9]
+* **SELECTIVE LASER SINTERING**Plastic Prototypes and Parts Direct from CADSelective Laser Sintering (SLS(r)) is an additive manufacturing technology developed by 3D Systems. The process uses a high power laser fuse small particles of plastic, metal, ceramic and glass powders directly from computer-aided design (CAD) data into a three dimensional shape. As each cross-section is scanned, the powder bed is lowered by one layer thickness, scanning and sintering one layer at a time until the build is complete. Part tolerances typically measure three-thousandth to five-thousandth of an inch (0.0003" -- 0.005").The SLS process is used for rapidly manufacturing components and assemblies from a wide range of powder polymers such as nylon (neat, glass-filled or carbon-filled) or polystyrene. Commonly specified laser sintering materials include:\*Duraform PA Nylon\*Duraform FR Flame Retardant\*Duraform Flex Elastomeric\*Duraform GF Glass Filled\*Duraform HST Fiber Reinforced\*Duraform EX Impact ResistantSLS technology is growing and being adopted in many industries for low volume Additive Manufacturing, including; aerospace, automotive, consumer products, dental, robotics and medical industries. At Fusion PM, the technology offers numerous advantages to our clients, quickly delivering plastic prototypes and parts via Digital Manufacturing in as little as one to two days.While SLS began as a way to build prototype parts by Dr. Carl Deckard in the mid 1980's, it has grown in popularity as a limited-run manufacturing option to deliver plastic end-use parts.The people at Fusion PM have years of experience working with SLS materials and processes -- let Fusion PM get to work for you!
 
 [0]: http://data.www.fusionpm.com/datasheets/sla/SLA%2025.pdf
 [1]: http://data.www.fusionpm.com/datasheets/sla/SLA%2055.pdf
 [2]: http://data.www.fusionpm.com/datasheets/sla/SLA%2060.pdf
 [3]: http://data.www.fusionpm.com/datasheets/sla/SLA%20BLUESTONE.pdf
 [4]: http://data.www.fusionpm.com/datasheets/sla/SLA%20EXTREME.pdf
-[5]: http://data.www.fusionpm.com/datasheets/sls/SLS%20CASTFORM.pdf
-[6]: http://data.www.fusionpm.com/datasheets/sls/SLS%20EX.pdf
-[7]: http://data.www.fusionpm.com/datasheets/sls/SLS%20FLEX.pdf
-[8]: http://data.www.fusionpm.com/datasheets/sls/SLS%20GF.pdf
-[9]: http://data.www.fusionpm.com/datasheets/sls/SLS%20PA.pdf
