@@ -28,10 +28,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
 name: www.fusionpm.us
 url: 'https://fusionpm.us/'
-navigation:
-  - name: ABOUT US
-    id: 0997b923-0e62-4840-9663-5a5a1bfb5f25
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
