@@ -1,5 +1,6 @@
-layout_spectrum: 0.6182917190202982
 typography_spectrum: 0.7045657805443769
+content_rating:
+  adult: false
 color:
   saturation: 0.5122060132036815
   brandStrength: 0.9469475543136606
@@ -11,11 +12,11 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-content_rating:
-  adult: false
+github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
+layout_spectrum: 0.6182917190202982
 analytics:
   google: UA-103167574-1
   facebook: '395447697488990'
@@ -26,6 +27,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
 name: www.fusionpm.us
+url: 'https://fusionpm.us/'
+navigation:
+  - name: ABOUT US
+    id: 0997b923-0e62-4840-9663-5a5a1bfb5f25
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
@@ -39,19 +45,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=LB4-0LKjN8Q&t=11s'
+      keywords:
+        - ''
+      related: []
       author:
         - name: FUSIONpm
           url: 'https://www.youtube.com/channel/UCRrzItIqRKeE2MpBmrb0gyQ'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: www.youtube.com
-      keywords:
-        - ''
-      description: Uploaded by FUSIONpm on 2017-05-25.
+      '@context': 'http://schema.org'
+      title: FUSION's Philosophy
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=LB4-0LKjN8Q&feature=applinks'
@@ -90,10 +94,12 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=LB4-0LKjN8Q&t=11s'
-      title: FUSION's Philosophy
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      description: Uploaded by FUSIONpm on 2017-05-25.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -105,5 +111,3 @@ purpose:
   - type: email
     url: 'mailto:info@fusionpm.com'
     label: SEND EMAIL
-url: 'https://fusionpm.us/'
-github: true
