@@ -11,8 +11,8 @@ description: >-
   first shipment of parts and it’s
 
   definitely getting a lot of attention”...    Automotive Customer
-dateModified: '2018-01-04T19:59:50.429Z'
-datePublished: '2018-01-04T19:59:51.274Z'
+dateModified: '2018-01-04T20:20:20.100Z'
+datePublished: '2018-01-04T20:20:21.343Z'
 title: >-
   “The parts look great! Everything is functional and up and running and we are
   very happy with the first impressions"…
@@ -52,3 +52,5 @@ _type: Article
 > went together perfectly. Thank you again for getting them to us as quickly as you did"... Arms Company
 
 > "The quality of the plastic is fantastic, rigid enough to keep shape and tolerance when impated, but not too rigid as to encroach on being brittle"... International Corporation specialized in production concepts
+
+> "The pieces look great. I have realy enjoyed working with FUSION and they was benn very helpful in "tweaking" my prototype is great and the color is perfect. My only negative comment is the price, but your price is much better than everyone else (so that's a big positive). Overall, i am very satisfied and will recommend you to anyone in need of a prototype"... Independent Business Owner
