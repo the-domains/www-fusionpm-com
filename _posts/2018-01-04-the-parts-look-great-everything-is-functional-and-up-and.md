@@ -11,8 +11,8 @@ description: >-
   first shipment of parts and it’s
 
   definitely getting a lot of attention.”... Automotive 
-dateModified: '2018-01-04T17:51:27.026Z'
-datePublished: '2018-01-04T17:51:27.884Z'
+dateModified: '2018-01-04T17:55:15.888Z'
+datePublished: '2018-01-04T17:55:16.642Z'
 title: >-
   “The parts look great! Everything is functional and up and running and we are
   very happy with the first impressions"…
@@ -37,3 +37,5 @@ _type: Blurb
 > "We got all of our parts in and they look great!. Thank you for the speedy manuacturing and delivery. Will definitely be sending you some more jobs soon"... Medical 
 
 > "I received the parts today, they look great!... Tools
+
+> "We received the package today. The prototypes are perfect!. Thank you so much for your patience with me and your diligence"... Technology
