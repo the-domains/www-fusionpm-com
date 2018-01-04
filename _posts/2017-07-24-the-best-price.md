@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We have improved the lowest price in the market, competing in quality against
   the best…
-dateModified: '2018-01-04T17:16:48.377Z'
-datePublished: '2018-01-04T17:16:49.116Z'
+dateModified: '2018-01-04T19:10:36.684Z'
+datePublished: '2018-01-04T19:10:37.871Z'
 title: The Best Price
 author: []
 publisher: {}
