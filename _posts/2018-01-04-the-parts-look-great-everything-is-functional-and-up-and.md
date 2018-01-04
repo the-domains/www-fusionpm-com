@@ -11,8 +11,8 @@ description: >-
   first shipment of parts and it’s
 
   definitely getting a lot of attention.”... Automotive 
-dateModified: '2018-01-04T17:55:15.888Z'
-datePublished: '2018-01-04T17:55:16.642Z'
+dateModified: '2018-01-04T18:15:42.955Z'
+datePublished: '2018-01-04T18:15:43.710Z'
 title: >-
   “The parts look great! Everything is functional and up and running and we are
   very happy with the first impressions"…
