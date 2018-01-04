@@ -11,17 +11,15 @@ description: >-
   first shipment of parts and it’s
 
   definitely getting a lot of attention.”
-dateModified: '2018-01-04T17:10:03.135Z'
-datePublished: '2018-01-04T17:10:03.917Z'
-title: >-
-  “The parts look great!  Everything is functional and up and running and we are
-  very happy with the first impressions”…
+dateModified: '2018-01-04T17:16:48.377Z'
+datePublished: '2018-01-04T17:16:49.128Z'
+title: "“The parts look great!\_ Everything is functional and up and running and we are very happy with the first impressions”…"
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-01-04-the-parts-look-great-everything-is-functional-and-up-and.md
 starred: false
 datePublishedOriginal: '2018-01-04T17:10:03.917Z'
-sourcePath: _posts/2018-01-04-the-parts-look-great-everything-is-functional-and-up-and.md
 _type: Blurb
 
 ---
