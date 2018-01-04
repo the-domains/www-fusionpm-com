@@ -1,22 +1,22 @@
-typography_spectrum: 0.7045657805443769
-content_rating:
-  adult: false
+layout_spectrum: 0.1168163264261577
+typography_spectrum: 0.7060748230241755
 color:
-  saturation: 0.5122060132036815
-  brandStrength: 0.9469475543136606
-  lightness: 0.417362462870666
-  rhythmicContrast: 0.028597380251134976
+  saturation: 0.06054942820645352
+  brandStrength: 0.37427617421742565
+  lightness: 0.05520267564167112
+  rhythmicContrast: 0.020407450848563324
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
-layout_spectrum: 0.6182917190202982
 analytics:
   google: UA-103167574-1
   facebook: '395447697488990'
