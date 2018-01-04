@@ -11,8 +11,8 @@ description: >-
   first shipment of parts and it’s
 
   definitely getting a lot of attention.”... Automotive 
-dateModified: '2018-01-04T18:15:42.955Z'
-datePublished: '2018-01-04T18:15:43.710Z'
+dateModified: '2018-01-04T18:18:26.893Z'
+datePublished: '2018-01-04T18:18:27.645Z'
 title: >-
   “The parts look great! Everything is functional and up and running and we are
   very happy with the first impressions"…
@@ -20,12 +20,16 @@ author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-01-04-the-parts-look-great-everything-is-functional-and-up-and.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-01-04T17:10:03.917Z'
-_type: Blurb
+url: the-parts-look-great-everything-is-functional-and-up-and-r/index.html
+_type: Article
 
 ---
 # "The parts look great! Everything is functional and up and running and we are very happy with the first impressions"...
+
+---
 
 > "The parts look great! I'm impressed with the overall part tolerance that you were able to hit which means
 > that everything is going together really well. There are a few tight spots that I've had to file, but those are
