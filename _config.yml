@@ -1,5 +1,6 @@
-layout_spectrum: 0.07841148669536382
 typography_spectrum: 0.7011320664123216
+content_rating:
+  adult: false
 color:
   saturation: 0.06760071806720283
   brandStrength: 0.373939660086232
@@ -11,12 +12,11 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
+layout_spectrum: 0.07841148669536382
 analytics:
   google: UA-103167574-1
   facebook: '395447697488990'
@@ -28,6 +28,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
 name: www.fusionpm.us
 url: 'https://fusionpm.us/'
+navigation:
+  - name: FUSIONpm in Businessin Focus Magazine
+    url: >-
+      https://www.businessinfocusmagazine.com/e_mag/BIFNAFeb2018/viewer/desktop/#page/74
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
