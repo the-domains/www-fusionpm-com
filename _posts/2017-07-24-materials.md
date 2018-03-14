@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Quick Turn Prototypes in 1 to 5 days. Production Quantities Also Available.
-dateModified: '2018-03-14T23:35:19.031Z'
-datePublished: '2018-03-14T23:35:19.798Z'
+dateModified: '2018-03-14T23:38:02.772Z'
+datePublished: '2018-03-14T23:38:03.666Z'
 title: MATERIALS
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # MATERIALS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29064a6e-7410-4796-a3d0-e92eac211e87.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e11ae30-640b-43ca-8c56-b765b69d4cac.jpg)
 
 * **SHEET METAL**
 
