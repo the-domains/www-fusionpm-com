@@ -54,7 +54,6 @@ content:
       keywords:
         - ''
       description: Uploaded by FUSIONpm on 2017-05-25.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=LB4-0LKjN8Q&feature=applinks'
@@ -96,6 +95,31 @@ content:
       '@context': 'http://schema.org'
       isBasedOnUrl: 'https://www.youtube.com/watch?v=LB4-0LKjN8Q'
       title: FUSION's Philosophy
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdce0be3-e214-4e6f-a075-c3b4ee2c8b64.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdce0be3-e214-4e6f-a075-c3b4ee2c8b64.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
