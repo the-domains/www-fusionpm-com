@@ -1,5 +1,6 @@
-layout_spectrum: 0.781928340595234
 typography_spectrum: 0.6616635251784753
+content_rating:
+  adult: false
 color:
   saturation: 0.11429734161197401
   brandStrength: 0.4294694366222155
@@ -11,12 +12,11 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
+layout_spectrum: 0.781928340595234
 analytics:
   google: UA-103167574-2
   facebook: '395447697488990'
@@ -28,6 +28,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4b0533-1bec-4110-8fa6-058683490ff8.tif
 name: www.fusionpm.us
 url: 'https://fusionpm.us/'
+navigation:
+  - name: FACEBOOK
+    url: 'https://www.facebook.com/FUSIONproto/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
@@ -40,19 +44,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/3da22cbc-eebe-46e5-8e4a-804d8722d236.gif
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
