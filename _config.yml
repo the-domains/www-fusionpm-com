@@ -31,7 +31,32 @@ url: 'https://fusionpm.us/'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/177e0aaa-371f-4807-9727-26aea79f3fc4.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/177e0aaa-371f-4807-9727-26aea79f3fc4.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Prototype Manufacturing
 purpose:
   - type: contact
