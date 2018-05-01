@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'For your prototypes, for your production parts and for endless applications…'
-dateModified: '2018-05-01T21:40:54.683Z'
-datePublished: '2018-05-01T21:40:55.123Z'
+dateModified: '2018-05-01T21:42:44.863Z'
+datePublished: '2018-05-01T21:42:45.000Z'
 title: URETHANE CASTING
 author: []
 publisher: {}
