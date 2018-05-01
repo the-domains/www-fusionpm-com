@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-04T19:10:36.684Z'
-datePublished: '2018-01-04T19:10:37.900Z'
+dateModified: '2018-05-01T20:12:05.507Z'
+datePublished: '2018-05-01T20:12:07.612Z'
 title: INDUSTRIES
 author: []
 publisher: {}
@@ -14,3 +14,4 @@ _type: Blurb
 
 ---
 # INDUSTRIES
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4c70391-13b2-4180-bb75-8a6935c9fc8f.jpg)
