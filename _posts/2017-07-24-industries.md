@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-01T20:17:27.605Z'
-datePublished: '2018-05-01T20:17:28.780Z'
+dateModified: '2018-05-01T21:40:54.683Z'
+datePublished: '2018-05-01T21:40:55.257Z'
 title: INDUSTRIES
 author: []
 publisher: {}
