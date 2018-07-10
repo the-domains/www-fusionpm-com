@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We are one of the few companies that can offer you the urethane casting
   service with years of experience behind us in this area.
-dateModified: '2018-07-10T18:01:12.805Z'
-datePublished: '2018-07-10T18:01:13.284Z'
+dateModified: '2018-07-10T20:07:14.773Z'
+datePublished: '2018-07-10T20:07:15.503Z'
 title: URETHANE CASTING
 author: []
 publisher: {}
@@ -30,25 +30,25 @@ At Fusion Prototype Manufacturing, rapid prototyping experts will work diligentl
 
 Casting Materials:
 
-\*ABS-like
+-ABS-like
 
-\*High Temperature
+-High Temperature
 
-\*High Impact
+-High Impact
 
-\*Optical Clear
+-Optical Clear
 
-\*Rigid Opaque
+-Rigid Opaque
 
-\*Polypropylene-like
+-Polypropylene-like
 
-\*Polycarbonate-like
+-Polycarbonate-like
 
-\*Rubber-like
+-Rubber-like
 
-\*Silicone
+-Silicone
 
-\*FDA Materials
+-FDA Materials
 
 ---
 
