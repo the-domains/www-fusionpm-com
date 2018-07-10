@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: 'For your prototypes, for your production parts and for endless applications…'
-dateModified: '2018-05-01T21:42:44.863Z'
-datePublished: '2018-05-01T21:42:45.000Z'
+description: >-
+  We are one of the few companies that can offer you the urethane casting
+  service with years of experience behind us in this area. 
+dateModified: '2018-07-10T17:58:50.512Z'
+datePublished: '2018-07-10T17:58:51.543Z'
 title: URETHANE CASTING
 author: []
 publisher: {}
@@ -15,11 +17,10 @@ _type: Blurb
 ---
 # **URETHANE CASTING**
 
-_For your prototypes, for your production parts and for endless applications..._
+We are one of the few companies that can offer you the urethane casting service with years of experience behind us in this area. 
 
-In FUSIONpm we are one of the few companies that can offer you the urethane casting service with a long experience in this area.
-
-You only need contact us and explain us what you want to do, what you need for your procces, for your project or for prototypes.
+You only need to contact us and explain what you want to do for your project and we can
+help you make it happen.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5665efb-a95a-49a2-8907-faef71fc7bc5.jpg)
 
 ### _Call US (619) 819 5521_
