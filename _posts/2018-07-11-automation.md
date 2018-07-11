@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: AUTOMATION
-dateModified: '2018-07-11T19:15:13.388Z'
-datePublished: '2018-07-11T19:15:14.286Z'
+dateModified: '2018-07-11T19:16:11.171Z'
+datePublished: '2018-07-11T19:16:12.282Z'
 title: >-
   From an idea to a full automatic process that will reduce time and effort to
   your production line or process.
@@ -18,6 +18,9 @@ _type: Article
 
 ---
 AUTOMATION
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea007ca3-1eb6-4d81-a434-e3ab74f22ea9.jpg)
 
 ---
