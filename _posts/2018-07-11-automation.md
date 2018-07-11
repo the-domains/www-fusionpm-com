@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-11T19:17:52.484Z'
-datePublished: '2018-07-11T19:17:53.387Z'
-title: AUTOMATION
+dateModified: '2018-07-11T19:26:47.598Z'
+datePublished: '2018-07-11T19:26:48.488Z'
+title: AUTOMATION SOLUTIONS
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: automation/index.html
 _type: Article
 
 ---
-# AUTOMATION
+# AUTOMATION SOLUTIONS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea007ca3-1eb6-4d81-a434-e3ab74f22ea9.jpg)
 
 ---
