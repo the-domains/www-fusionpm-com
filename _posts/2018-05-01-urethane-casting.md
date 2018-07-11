@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We are one of the few companies that can offer you the urethane casting
   service with years of experience behind us in this area.
-dateModified: '2018-07-11T02:40:12.363Z'
-datePublished: '2018-07-11T02:40:12.935Z'
+dateModified: '2018-07-11T02:41:03.009Z'
+datePublished: '2018-07-11T02:41:03.678Z'
 title: Urethane Casting & Rapid Prototyping
 author: []
 publisher: {}
@@ -43,4 +43,8 @@ A Few Casting Materials are:
 
 ---
 
-### Toll free: 888.827.5945 US: 619.819.5521 MX: 665.654.3190
+### Toll free: 888.827.5945 
+
+### US: 619.819.5521 
+
+### MX: 665.654.3190
