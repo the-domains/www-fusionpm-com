@@ -13,7 +13,6 @@ color:
     - '#1B1D1E'
 content_rating:
   adult: false
-github: true
 opengraph:
   type: FUSIONproto
   appId: 'https://www.facebook.com/FUSIONproto/'
@@ -21,7 +20,7 @@ analytics:
   google: UA-103167574-2
   facebook: '395447697488990'
 author:
-  name: FUSION PROTOTYPES
+  name: HOME
   email: info@fusionpm.com
   url: 'http://www.fusionpm.us'
 logo: >-
@@ -61,3 +60,4 @@ purpose:
   - type: contact
     url: 'tel:6198195521'
     label: CALL
+github: true
