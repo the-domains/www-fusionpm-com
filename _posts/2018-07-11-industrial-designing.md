@@ -5,8 +5,8 @@ description: >-
   Working side by side with our team of professional designers we will take your
   ideas and help you digitizes them taking you a step closer to your
   materialized part or simply fine detailing a future production part.
-dateModified: '2018-07-11T19:09:32.415Z'
-datePublished: '2018-07-11T19:09:33.158Z'
+dateModified: '2018-07-11T19:10:36.626Z'
+datePublished: '2018-07-11T19:10:37.696Z'
 title: INDUSTRIAL DESIGNING
 author: []
 publisher: {}
