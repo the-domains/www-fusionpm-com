@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We have improved the lowest price in the market, assuring Quality and
   Excellent Service…
-dateModified: '2018-07-11T01:53:25.025Z'
-datePublished: '2018-07-11T01:53:26.218Z'
+dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:45:57.321Z'
 title: COMPETITIVE PRICING!
 author: []
 publisher: {}
