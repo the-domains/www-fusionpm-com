@@ -4,9 +4,9 @@
         <description><![CDATA[FUSION]]></description>
         <link>http://fusionpm.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Jul 2018 01:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jul 2018 01:45:23 GMT</lastBuildDate>
         <atom:link href="http://fusionpm.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Jul 2018 01:43:16 GMT</pubDate>
+        <pubDate>Wed, 11 Jul 2018 01:45:21 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fusion Prototype Manufacturing is a family owned company; our headquarters are located in Tecate Mexico just a few minutes away from the border.&nbsp; We are a
@@ -79,6 +79,13 @@ prototyping and production project a smooth process.</p>]]></description>
             <link>http://fusionpm.us/picture-gallery/index.html</link>
             <guid isPermaLink="false">274c87c4-42bb-4998-a085-18c41cd0fa91</guid>
             <pubDate>Thu, 22 Mar 2018 15:39:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>AUTOMATION</p>,<p>From an idea to a full automatic process that will reduce time and effort to your production line or process. </p>]]></description>
+            <link>http://fusionpm.us/automation/index.html</link>
+            <guid isPermaLink="false">c11b3c03-82ae-4dab-80df-5c24fbc271eb</guid>
+            <pubDate>Wed, 11 Jul 2018 01:45:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
