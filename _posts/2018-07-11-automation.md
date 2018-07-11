@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: AUTOMATION
-dateModified: '2018-07-11T01:45:18.758Z'
-datePublished: '2018-07-11T01:45:19.506Z'
+dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:45:57.343Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-07-11-automation.md
 starred: false
 datePublishedOriginal: '2018-07-11T01:45:19.506Z'
-sourcePath: _posts/2018-07-11-automation.md
 url: automation/index.html
 _type: Article
 
