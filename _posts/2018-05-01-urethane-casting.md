@@ -7,8 +7,8 @@ description: >-
 
   You only need to contact us and explain what you want to do for your project
   and we can help you make it happen.
-dateModified: '2018-07-11T16:51:36.118Z'
-datePublished: '2018-07-11T16:51:36.845Z'
+dateModified: '2018-07-11T16:53:48.331Z'
+datePublished: '2018-07-11T16:53:49.232Z'
 title: Urethane Casting & Rapid Prototyping
 author: []
 publisher: {}
@@ -45,8 +45,8 @@ A Few Casting Materials are:
 
 ---
 
-### Toll free: 888.827.5945
+Toll free: 888.827.5945
 
-### US: 619.819.5521
+US: 619.819.5521
 
-### MX: 665.654.3190
+MX: 665.654.3190
