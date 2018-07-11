@@ -7,11 +7,9 @@ description: >-
   my CAD. I built up the first full assembly yesterday with your first shipment
   of parts and it’s definitely getting a lot of attention”... Automotive
   Customer
-dateModified: '2018-07-11T16:36:41.945Z'
-datePublished: '2018-07-11T16:36:42.818Z'
-title: >-
-  “The parts look great! Everything is functional and up and running and we are
-  very happy with the first impressions"…
+dateModified: '2018-07-11T19:29:37.125Z'
+datePublished: '2018-07-11T19:29:38.218Z'
+title: Our Customers Experience…
 author: []
 publisher: {}
 via: {}
@@ -23,13 +21,13 @@ url: the-parts-look-great-everything-is-functional-and-up-and-r/index.html
 _type: Article
 
 ---
-> Our Customers Experience...
-
----
+## Our Customers Experience...
 
 ## "The parts look great! Everything is functional and up and running and we are very happy with the first impressions"...
 
 _"The parts look great! I'm impressed with the overall part tolerance that you were able to hit which means that everything is going together really well. There are a few tight spots that I've had to file, but those are problems from my CAD. I built up the first full assembly yesterday with your first shipment of parts and it's definitely getting a lot of attention"... Automotive Customer_
+
+---
 
 _"We look forward to doing more business with fusion. The parts we received are great"... Aquatic Equipment Company_
 
