@@ -32,9 +32,6 @@ navigation:
   - name: FACEBOOK
     url: 'https://www.facebook.com/FUSIONproto/'
     type: external
-  - name: INSTAGRAM
-    url: 'https://www.instagram.com/fusion_proto/?hl=es-la'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3ba7c5-bcc1-46eb-9bb6-6476d48b0546.png
 title: FUSION
