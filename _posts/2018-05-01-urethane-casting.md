@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We are one of the few companies that can offer you the urethane casting
   service with years of experience behind us in this area.
-dateModified: '2018-07-11T02:40:10.691Z'
-datePublished: '2018-07-11T02:40:11.570Z'
+dateModified: '2018-07-11T02:40:12.363Z'
+datePublished: '2018-07-11T02:40:12.935Z'
 title: Urethane Casting & Rapid Prototyping
 author: []
 publisher: {}
