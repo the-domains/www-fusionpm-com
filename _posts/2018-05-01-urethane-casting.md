@@ -3,8 +3,12 @@ inFeed: true
 description: >-
   We are one of the few companies that can offer you the urethane casting
   service with years of experience behind us in this area.
-dateModified: '2018-07-11T16:37:07.494Z'
-datePublished: '2018-07-11T16:37:07.638Z'
+
+
+  You only need to contact us and explain what you want to do for your project
+  and we can help you make it happen.
+dateModified: '2018-07-11T16:51:36.118Z'
+datePublished: '2018-07-11T16:51:36.845Z'
 title: Urethane Casting & Rapid Prototyping
 author: []
 publisher: {}
@@ -18,11 +22,9 @@ _type: Article
 
 ---
 # **Urethane Casting & Rapid Prototyping**
+![We are one of the few companies that can offer you the urethane casting service with years of experience behind us in this area.
 
-We are one of the few companies that can offer you the urethane casting service with years of experience behind us in this area.
-
-You only need to contact us and explain what you want to do for your project and we can help you make it happen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5665efb-a95a-49a2-8907-faef71fc7bc5.jpg)
+You only need to contact us and explain what you want to do for your project and we can help you make it happen.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5665efb-a95a-49a2-8907-faef71fc7bc5.jpg)
 
 ---
 
@@ -43,8 +45,8 @@ A Few Casting Materials are:
 
 ---
 
-### Toll free: 888.827.5945 
+### Toll free: 888.827.5945
 
-### US: 619.819.5521 
+### US: 619.819.5521
 
 ### MX: 665.654.3190
