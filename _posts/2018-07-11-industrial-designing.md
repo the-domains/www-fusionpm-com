@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-11T01:49:08.543Z'
-datePublished: '2018-07-11T01:49:09.261Z'
+dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:45:57.322Z'
 title: INDUSTRIAL DESIGNING
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-07-11-industrial-designing.md
 starred: false
 datePublishedOriginal: '2018-07-11T01:49:09.261Z'
-sourcePath: _posts/2018-07-11-industrial-designing.md
 url: industrial-designing/index.html
 _type: Article
 
