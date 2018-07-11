@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   We are one of the few companies that can offer you the urethane casting
-  service with years of experience behind us in this area. 
-dateModified: '2018-07-11T01:17:10.319Z'
-datePublished: '2018-07-11T01:17:11.097Z'
+  service with years of experience behind us in this area.
+dateModified: '2018-07-11T01:22:44.302Z'
+datePublished: '2018-07-11T01:22:45.155Z'
 title: Urethane Casting & Rapid Prototyping
 author: []
 publisher: {}
@@ -19,36 +19,31 @@ _type: Article
 ---
 # **Urethane Casting & Rapid Prototyping**
 
-We are one of the few companies that can offer you the urethane casting service with years of experience behind us in this area. 
+We are one of the few companies that can offer you the urethane casting service with years of experience behind us in this area.
 
 You only need to contact us and explain what you want to do for your project and we can help you make it happen.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5665efb-a95a-49a2-8907-faef71fc7bc5.jpg)
 
 ---
 
-At Fusion Prototype Manufacturing, rapid prototyping experts will work diligently to determine the best Rapid Prototyping process for the intended product. After a thorough evaluation of CAD geometry and a review of the physical properties and mechanical requirements of the intended part, to determine the best solution for your project be made.
+At Fusion Prototype Manufacturing, Urethane Casting and Rapid Prototyping experts will
+work diligently to determine the best process for the intended product. After our
+experts make a thorough evaluation of CAD geometry and a review of the physical
+properties and mechanical requirements of the intended part, they will
+determine the best solution for your project to be made. 
 
-Casting Materials:
+A Few Casting Materials are:
 
--ABS-like
-
--High Temperature
-
--High Impact
-
--Optical Clear
-
--Rigid Opaque
-
--Polypropylene-like
-
--Polycarbonate-like
-
--Rubber-like
-
--Silicone
-
--FDA Materials
+* ABS-like
+* High Temperature
+* High Impact
+* Optical Clear
+* Rigid Opaque
+* Polypropylene-like
+* Polycarbonate-like
+* Rubber-like
+* Silicone
+* FDA Materials
 
 ---
 
