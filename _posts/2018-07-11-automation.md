@@ -1,9 +1,11 @@
 ---
 inFeed: true
 description: AUTOMATION
-dateModified: '2018-07-11T02:48:48.678Z'
-datePublished: '2018-07-11T02:48:49.103Z'
-title: ''
+dateModified: '2018-07-11T19:15:13.388Z'
+datePublished: '2018-07-11T19:15:14.286Z'
+title: >-
+  From an idea to a full automatic process that will reduce time and effort to
+  your production line or process.
 author: []
 publisher: {}
 via: {}
@@ -16,8 +18,7 @@ _type: Article
 
 ---
 AUTOMATION
-
-From an idea to a full automatic process that will reduce time and effort to your production line or process. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea007ca3-1eb6-4d81-a434-e3ab74f22ea9.jpg)
 
 ---
 
