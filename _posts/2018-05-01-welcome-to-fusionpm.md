@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-11T01:50:52.852Z'
-datePublished: '2018-07-11T01:50:53.947Z'
+dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:45:57.353Z'
 title: Welcome to FUSIONpm!!!
 author:
   - name: FUSIONproto
