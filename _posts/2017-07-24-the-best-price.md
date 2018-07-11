@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  We have improved the lowest price in the market, competing in quality against
-  the best…
-dateModified: '2018-07-10T20:00:32.995Z'
-datePublished: '2018-07-10T20:01:04.923Z'
-title: The Best Price
+  We have improved the lowest price in the market, assuring Quality and
+  Excellent Service…
+dateModified: '2018-07-11T01:53:25.025Z'
+datePublished: '2018-07-11T01:53:26.218Z'
+title: COMPETITIVE PRICING!
 author: []
 publisher: {}
 via: {}
@@ -16,10 +16,8 @@ datePublishedOriginal: '2018-07-10T20:01:04.923Z'
 _type: Blurb
 
 ---
-# _The Best Price_
+# **COMPETITIVE PRICING!**
 
-We have improved the lowest price in the market, competing in quality against the best...
+We have improved the lowest price in the market, assuring Quality and Excellent Service...
 
-_Excellent Service_
-
-We are characterized by offering the best service, human quality is a priority in every project...
+We are characterized by offering the best one on one customer service, human quality is a priority in our day to day relationship and in every project...
