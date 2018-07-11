@@ -7,8 +7,8 @@ description: >-
   my CAD. I built up the first full assembly yesterday with your first shipment
   of parts and it’s definitely getting a lot of attention”... Automotive
   Customer
-dateModified: '2018-07-11T02:24:56.224Z'
-datePublished: '2018-07-11T02:24:56.894Z'
+dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:45:57.378Z'
 title: >-
   “The parts look great! Everything is functional and up and running and we are
   very happy with the first impressions"…
