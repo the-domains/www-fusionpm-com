@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We are one of the few companies that can offer you the urethane casting
   service with years of experience behind us in this area.
-dateModified: '2018-07-11T01:22:44.302Z'
-datePublished: '2018-07-11T01:22:45.155Z'
+dateModified: '2018-07-11T02:40:10.691Z'
+datePublished: '2018-07-11T02:40:11.570Z'
 title: Urethane Casting & Rapid Prototyping
 author: []
 publisher: {}
@@ -26,11 +26,7 @@ You only need to contact us and explain what you want to do for your project and
 
 ---
 
-At Fusion Prototype Manufacturing, Urethane Casting and Rapid Prototyping experts will
-work diligently to determine the best process for the intended product. After our
-experts make a thorough evaluation of CAD geometry and a review of the physical
-properties and mechanical requirements of the intended part, they will
-determine the best solution for your project to be made. 
+At Fusion Prototype Manufacturing, Urethane Casting and Rapid Prototyping experts will work diligently to determine the best process for the intended product. After our experts make a thorough evaluation of CAD geometry and a review of the physical properties and mechanical requirements of the intended part, they will determine the best solution for your project to be made.
 
 A Few Casting Materials are:
 
@@ -47,8 +43,4 @@ A Few Casting Materials are:
 
 ---
 
-### Toll free: 888.827.5945
-
-US: 619.819.5521
-
-MX: 665.654.3190
+### Toll free: 888.827.5945 US: 619.819.5521 MX: 665.654.3190
