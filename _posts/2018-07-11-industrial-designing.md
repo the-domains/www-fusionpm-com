@@ -1,8 +1,12 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2018-07-11T17:03:01.008Z'
-datePublished: '2018-07-11T17:03:01.602Z'
+description: >-
+  In Fusion Prototype Manufacturing our goal is to make your ideas come true!
+  Working side by side with our team of professional designers we will take your
+  ideas and help you digitizes them taking you a step closer to your
+  materialized part or simply fine detailing a future production part.
+dateModified: '2018-07-11T19:09:32.415Z'
+datePublished: '2018-07-11T19:09:33.158Z'
 title: INDUSTRIAL DESIGNING
 author: []
 publisher: {}
@@ -16,12 +20,7 @@ _type: Article
 
 ---
 # INDUSTRIAL DESIGNING
-
-## _We make your ideas come to life in front of your eyes!_
-
----
-
-![We make your ideas come to life in front of your eyes!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b11c424-8384-400b-a591-f2fceed801ab.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fb8746f-763e-4dd5-8b83-dc34ac518564.jpg)
 
 In Fusion Prototype Manufacturing our goal is to make your ideas come true! Working side by side with our team of professional designers we will take your ideas and help you digitizes them taking you a step closer to your materialized part or simply fine detailing a future production part.
 
