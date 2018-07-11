@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-11T01:49:45.094Z'
-datePublished: '2018-07-11T01:49:45.638Z'
+dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:45:57.290Z'
 title: SCOPE OF INDUSTRIES
 author: []
 publisher: {}
