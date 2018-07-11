@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-01T21:40:54.683Z'
-datePublished: '2018-05-01T21:40:55.257Z'
-title: INDUSTRIES
+dateModified: '2018-07-11T01:49:45.094Z'
+datePublished: '2018-07-11T01:49:45.638Z'
+title: SCOPE OF INDUSTRIES
 author: []
 publisher: {}
 via: {}
@@ -13,4 +13,4 @@ datePublishedOriginal: '2017-07-24T22:56:28.240Z'
 _type: Blurb
 
 ---
-# INDUSTRIES
+# SCOPE OF INDUSTRIES
