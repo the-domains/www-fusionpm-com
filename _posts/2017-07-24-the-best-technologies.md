@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2018-07-11T02:45:57.343Z'
-dateModified: '2018-07-11T02:45:56.764Z'
+datePublished: '2018-07-11T02:47:53.542Z'
+dateModified: '2018-07-11T02:47:52.747Z'
 title: >-
   From receiving your files to shipping your parts, you can assure that our team
   ofexperts will make your prototyping and your production project, be as smooth
-  aspossible!
+  as possible!
 publisher: {}
 via: {}
 inFeed: true
@@ -17,4 +17,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# **From receiving your files to shipping your parts, you can assure that our team ofexperts will make your prototyping and your production project, be as smooth aspossible!**
+# **From receiving your files to shipping your parts, you can assure that our team ofexperts will make your prototyping and your production project, be as smooth as possible!**
