@@ -1,11 +1,9 @@
 ---
 inFeed: true
-description: AUTOMATION
-dateModified: '2018-07-11T19:16:42.104Z'
-datePublished: '2018-07-11T19:16:42.914Z'
-title: >-
-  From an idea to a full automatic process that will reduce time and effort to
-  your production line or process.
+description: ''
+dateModified: '2018-07-11T19:17:52.484Z'
+datePublished: '2018-07-11T19:17:53.387Z'
+title: AUTOMATION
 author: []
 publisher: {}
 via: {}
@@ -17,8 +15,10 @@ url: automation/index.html
 _type: Article
 
 ---
-AUTOMATION
+# AUTOMATION
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea007ca3-1eb6-4d81-a434-e3ab74f22ea9.jpg)
+
+---
 
 In Fusion Prototype Manufacturing we take your ideas to a new level... Let's think big! You have a problem we have your solution...
 
