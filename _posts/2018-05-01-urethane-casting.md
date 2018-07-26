@@ -7,9 +7,9 @@ description: >-
 
   Just contact us and explain what you want to do for your project and we can
   help you make it happen.
-dateModified: '2018-07-26T19:55:45.498Z'
-datePublished: '2018-07-26T19:55:46.507Z'
-title: Urethane Casting & Rapid Prototyping
+dateModified: '2018-07-26T19:57:07.026Z'
+datePublished: '2018-07-26T19:57:08.158Z'
+title: 'Urethane Casting (RTV, Sillicone Tooling)'
 author: []
 publisher: {}
 via: {}
@@ -21,7 +21,7 @@ url: urethane-casting/index.html
 _type: Article
 
 ---
-# **Urethane Casting & Rapid Prototyping**
+# **Urethane Casting (RTV, Sillicone Tooling)**
 ![We are one of the few companies that manage urethane casting services with years of experience behind us.
 
 Just contact us and explain what you want to do for your project and we can help you make it happen.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5665efb-a95a-49a2-8907-faef71fc7bc5.jpg)
